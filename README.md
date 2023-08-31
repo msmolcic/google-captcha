@@ -5,9 +5,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/MarioSmolcic?style=social)](https://twitter.com/MarioSmolcic)
 
 
-# Google reCAPTCHA Integration in ASP.NET Core
+# Google reCAPTCHA Integration in ASP.NET
 
-This project showcases the integration of Google reCAPTCHA in an ASP.NET Core application. It demonstrates the handling of both reCAPTCHA v2 and v3, and the differences between the Enterprise and Regular editions.
+This project showcases the integration of Google reCAPTCHA in an ASP.NET application. It demonstrates the handling of both reCAPTCHA v2 and v3, and the differences between the Enterprise and Regular editions.
 
 ## What is CAPTCHA?
 
